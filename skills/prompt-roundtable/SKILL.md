@@ -1,4 +1,5 @@
 ---
+name: prompt-roundtable
 description: Launch a multi-expert roundtable debate to analyze and improve any prompt. Generates diverse expert personas dynamically, runs parallel analysis agents, then synthesizes with a platform-specialist evaluator. Use when you want deep, multi-perspective critique of AI prompts, system prompts, or prompt engineering artifacts.
 ---
 
