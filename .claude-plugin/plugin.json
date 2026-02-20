@@ -1,0 +1,13 @@
+{
+  "name": "gevia-skills",
+  "description": "AI prompt analysis, multi-expert debate, and prompt engineering skills by Gevia",
+  "version": "1.0.0",
+  "author": {
+    "name": "Gevia",
+    "email": "dev@gevia.co"
+  },
+  "homepage": "https://github.com/gevia-dev/gevia-skills",
+  "repository": "https://github.com/gevia-dev/gevia-skills",
+  "license": "MIT",
+  "keywords": ["skills", "prompt-engineering", "roundtable", "multi-expert", "debate"]
+}
