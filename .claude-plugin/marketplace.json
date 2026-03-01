@@ -5,8 +5,8 @@
     "email": "dev@gevia.co"
   },
   "metadata": {
-    "description": "Curated Claude Code skills by Gevia",
-    "version": "1.0.0"
+    "description": "Curated Claude Code skills and plugins by Gevia",
+    "version": "1.1.0"
   },
   "plugins": [
     {
@@ -17,6 +17,16 @@
       },
       "description": "AI prompt analysis, multi-expert debate, and prompt engineering skills",
       "version": "1.0.0",
+      "strict": true
+    },
+    {
+      "name": "gevia-symbiont-brain",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/gevia-dev/gevia-symbiont-brain.git"
+      },
+      "description": "Nervous system for the knowledge vault — vault-aware agents, autonomous orchestration, and knowledge distribution",
+      "version": "0.1.0",
       "strict": true
     }
   ]
