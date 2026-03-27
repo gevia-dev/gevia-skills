@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Curated Claude Code skills and plugins by Gevia",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "plugins": [
     {
@@ -20,13 +20,13 @@
       "strict": true
     },
     {
-      "name": "gevia-symbiont-brain",
+      "name": "vault-brain",
       "source": {
         "source": "url",
         "url": "https://github.com/gevia-dev/gevia-symbiont-brain.git"
       },
-      "description": "Nervous system for the knowledge vault — vault-aware agents, autonomous orchestration, and knowledge distribution",
-      "version": "0.2.0",
+      "description": "Full-lifecycle development orchestration — 20 agents, Brain Squad pipeline, parallel QA gate, vault-aware knowledge distribution",
+      "version": "1.0.0",
       "strict": true
     }
   ]
